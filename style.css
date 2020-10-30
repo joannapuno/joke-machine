@@ -50,6 +50,10 @@ button {
     margin-top: 20px;
 }
 
+.joke-holder {
+    line-height: 3em;
+}
+
 #setup, #punchline {
     font-size: 2em;
     text-align: center;
